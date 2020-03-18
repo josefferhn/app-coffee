@@ -190,5 +190,20 @@ p{
 	border:1px solid #ccc !important;
 }
 
+.navbar{
+	background-color: #876841 !important;
+}
+.navbar a{
+	color: #fff !important;
+}
+a{
+	color: #876841 !important;
+}
+
+.swiper-wrapper img{
+	width: 150px;
+	margin: 20px auto;
+	display: block;
+}
 
 

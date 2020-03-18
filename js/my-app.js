@@ -30,6 +30,11 @@ var myApp = new Framework7({
 		path: '/info/',
     	url: 'info.html',
     	name: 'info',
+  		},
+        {
+		path: '/espresso/',
+    	url: 'espresso.html',
+    	name: 'espresso',
   		}
 	]
 });
