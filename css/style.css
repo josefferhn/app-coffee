@@ -190,10 +190,12 @@ p{
 	border:1px solid #ccc !important;
 }
 
-.navbar{
+.navbar,
+.toolbar{
 	background-color: #876841 !important;
 }
-.navbar a{
+.navbar a,
+.toolbar a{
 	color: #fff !important;
 }
 a{
@@ -205,5 +207,27 @@ a{
 	margin: 20px auto;
 	display: block;
 }
+
+
+.popup-confirm{
+	color: #ccc;
+	text-align: center;
+}
+.icon-done{
+	width: 150px;
+	height: 150px;
+	line-height: 150px;
+	border-radius: 100%;
+	background-color: #c9f4c9;
+	color: #fff;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.icon-done i{
+	font-size: 60px;
+}
+
+
 
 

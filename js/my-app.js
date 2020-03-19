@@ -35,6 +35,11 @@ var myApp = new Framework7({
 		path: '/espresso/',
     	url: 'espresso.html',
     	name: 'espresso',
+  		},
+        {
+		path: '/espresso-tabs/',
+    	url: 'espresso-tabs.html',
+    	name: 'espresso-tabs',
   		}
 	]
 });
